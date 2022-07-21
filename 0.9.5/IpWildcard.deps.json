@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "IpWildcard/0.9": {
+      "IpWildcard/0.9.5": {
         "runtime": {
           "IpWildcard.dll": {}
         }
@@ -14,7 +14,7 @@
     }
   },
   "libraries": {
-    "IpWildcard/0.9": {
+    "IpWildcard/0.9.5": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

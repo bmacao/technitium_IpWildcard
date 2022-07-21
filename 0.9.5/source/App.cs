@@ -41,6 +41,9 @@ public class App : IDnsApplication, IDnsAppRecordRequestHandler
         static public string retrieveArecord(String record)
         {
             var aux= record.Split('.','-');
+            if(aux.Length < 5){
+                return null;
+            }
             int reduce = aux.Length -2; 
             Array.Resize<string>(ref aux, reduce);
             string Arec="";
