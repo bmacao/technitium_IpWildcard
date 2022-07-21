@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "IpWildcard/0.9": {
+        "runtime": {
+          "IpWildcard.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IpWildcard/0.9": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
