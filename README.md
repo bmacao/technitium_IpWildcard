@@ -39,8 +39,7 @@ x-192.0-0-1.bla.bla.    80      IN      A       192.0.0.1
 This version will response **only** to existent zones at server
 
 Install:
-Download .zip and install as app at technitium DNS server
-Add APP record to zone:
+Download .zip and install as app at technitium DNS server & add APP record to zone:
 - Name: @
 - App Name: Select dropdown
 - Class Path: Select dropdown
