@@ -83,6 +83,7 @@ Download .zip and install as app at technitium DNS server & add APP record to zo
 
 Usage:
 Make a query to server using dashed notation:
+
 Valid:
 - x-192-0-0-1.bla.bla 
 - 192-0-0-1.bla.bla
